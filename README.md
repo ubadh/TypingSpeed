@@ -1,9 +1,16 @@
-# TypingSpeed
+# 💻 &nbsp; TypingSpeed &nbsp; 💻
 
-<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ubadr/TypingSpeed">
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
+## Abstract:
 
 Practice and improve your typing speed and accuracy.
+
+## Demo:
 
 ![TypingSpeed](assets/img/website.png?raw=true)
 
@@ -15,7 +22,7 @@ You can clone the repository to your local computer to easily fix merge conflict
 $ git clone https://github.com/ubadr/TypingSpeed
 ```
 
-## Documentation
+## Algorithms and API:
 
 TypingSpeed uses [api.quotable.io](https://github.com/lukePeavey/quotable) to generate random quotes from 900 different authors.
 
